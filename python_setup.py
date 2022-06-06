@@ -1,11 +1,11 @@
-print("Hello from inside a file!")
+# print("Hello from inside a file!")
 
 
 def hello():
     print('Greeting Otto')
 
 
-hello()
+# hello()
 
 
 def pack(sandwhich, snack, drink):
@@ -14,7 +14,7 @@ def pack(sandwhich, snack, drink):
     print(lunch)
 
 
-pack('Sandwhich', 'Chips', 'Coke')
+# pack('Sandwhich', 'Chips', 'Coke')
 
 
 my_lunch = ['sandwich', 'chips', 'apple']
@@ -35,4 +35,4 @@ def lunch(array):
     print('My lunchbox is now empty')
 
 
-lunch(my_lunch)
+# lunch(my_lunch)
